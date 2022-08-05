@@ -1,2 +1,3 @@
 # Picgo
-Pic Bed
+
+figure Bed
